@@ -1,2 +1,2 @@
-# App Orçaamento Pessoal
-Feito em HTML E JS
+# App Orçamento Pessoal
+Feito em HTML e JS
